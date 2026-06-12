@@ -42,9 +42,9 @@ Specialisation: Finance and Insurance (Second Class Upper)
 
 🎬 Movie Recommendation System
 
-Developed an advanced Group Recommender System using the MovieLens 100K dataset for the Recommender Systems course at Tampere University (TUNI). Implemented user-based collaborative filtering, group aggregation (Average & Least Misery), disagreement-aware and sequential recommendations, diversity-aware re-ranking, and counterfactual explanations for explainable group recommendations.
+Developed an advanced Group Recommender System using the MovieLens 100K dataset as part of the Recommender Systems course at Tampere University. Implemented user‑based collaborative filtering, group aggregation (Average, Least Misery), disagreement‑aware recommendations, sequential group models, diversity‑aware re‑ranking, and counterfactual explanations for explainable group recommendations.
 
-Tech: Python, Pandas, NumPy, Scikit-learn, Google Colab
+Tech: Python, Pandas, NumPy, Scikit‑learn, Google Colab
 
 ---
 
