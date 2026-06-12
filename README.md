@@ -42,27 +42,9 @@ Specialisation: Finance and Insurance (Second Class Upper)
 
 🎬 Movie Recommendation System
 
-Implementation of advanced group recommender system techniques using the MovieLens 100K dataset as part of the Recommender Systems course at Tampere University.
+Developed an advanced Group Recommender System using the MovieLens 100K dataset for the Recommender Systems course at Tampere University (TUNI). Implemented user-based collaborative filtering, group aggregation (Average & Least Misery), disagreement-aware and sequential recommendations, diversity-aware re-ranking, and counterfactual explanations for explainable group recommendations.
 
-Key Features:
-
-User-Based Collaborative Filtering using Pearson Correlation
-Group Recommendation Aggregation (Average & Least Misery)
-Disagreement-Aware Recommendations
-Sequential Group Recommendations
-Diversity-Aware Recommendation Re-ranking
-Counterfactual Explanations for Group Recommendations
-
-Technologies: Python • Pandas • NumPy • Scikit-learn • Google Colab
-
-Highlights:
-
-Designed and implemented recommendation algorithms from scratch
-Evaluated recommendation quality, fairness, diversity, and explainability
-Applied collaborative filtering techniques to real-world movie rating data
-Developed methods for group decision support and recommendation aggregation
-
-🔗 Repository: github.com/Dilrukshi-keerthirathna/movie-recommendation-system
+Tech: Python, Pandas, NumPy, Scikit-learn, Google Colab
 
 ---
 
